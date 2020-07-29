@@ -1,0 +1,20 @@
+#meta:2
+#init:test_video_1.mp4
+
+#question-q0:Hmm birini secesen gerek ki :D ?
+#q0-time:2
+#q0-vid:test_video_1.mp4
+#q0-opt-text-0:Beli raziyam
+#q0-opt-src-0:test_video_1.mp4
+#q0-opt-text-1:Beli raziyam
+#q0-opt-src-1:test_video_2.mp4
+
+#question-q1:Ikinci sualdi bu. Sec gorek hele?
+#q1-time:7
+#q1-vid:test_video_2.mp4
+#q1-opt-text-0:Aha secdim
+#q1-opt-src-0:test_video_3.mp4
+#q1-opt-text-1:Yaxsi 2ni secdim
+#q1-opt-src-1:test_video_1.mp4
+#q1-opt-text-2:Aaa ucuncun secdim
+#q1-opt-src-2:test_video_2.mp4

@@ -1,0 +1,15 @@
+{
+  "name": "forkit-v0_2",
+  "version": "0.0.2",
+  "description": "Just Fork it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Alvan Rahimli",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
